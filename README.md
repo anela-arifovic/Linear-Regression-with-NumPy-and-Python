@@ -6,6 +6,6 @@ of the various learning algorithms, to have a deeper understanding of the fundam
 
 Learning objectives:
 
-Implement the gradient descent algorithm from scratch \n
-Perform univariate linear regression with Numpy and Python \n
-Create data visualizations and plots using matplotlib \n
+Implement the gradient descent algorithm from scratch <br />
+Perform univariate linear regression with Numpy and Python <br />
+Create data visualizations and plots using matplotlib 
